@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lkonate
 - 👀 I’m interested in a career in software engineering
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python projects
+- 🌱 Currently learning Python & Java
+- 💞️ Looking to collaborate on Python projects
 - 📫 Git me @ github.com/lkonate
 
 <!---
